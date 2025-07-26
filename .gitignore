@@ -1,0 +1,35 @@
+anon-auth-backend/target
+anon-auth-backend/.idea
+anon-auth-backend/target
+anon-auth-backend/uploads
+
+anon-auth-backend/src/main/resources
+
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.bolt
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+frontend/.env.development
+frontend/.next/
+frontend/.cache/
+frontend/.turbo/
+
+# Logs and editor files
+frontend/*.log
+frontend/.vscode/
+frontend/.idea/
+
+#key Agreement
+
+keyAgreement/.idea
+keyAgreement/target
+keyAgreement/uml_diagrams.puml
+keyAgreement/src/test
+keyAgreement/src/main/resources
+keyAgreement/src/main/java/org/example/AzureBlob.java
+
